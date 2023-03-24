@@ -22,4 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x10combo&show_icons=true&locale=en&layout=compact" alt="x10combo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x10combo&show_icons=true&locale=en" alt="x10combo" /></p>
