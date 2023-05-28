@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x10combo&label=Profile%20views&color=0e75b6&style=flat" alt="x10combo" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,AngularJS**
+- 🌱 I’m currently learning **PHP, OpenAPI, ReactJS,AngularJS**
 
 - 👯 I’m looking to collaborate on **Web App Projects**
 
