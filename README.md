@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/x10combo](github.com/x10combo)
 
-- 📫 How to reach me **rakelspahi03@gmail.com**
+- 📫 Contact me at: **rakelspahi03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
