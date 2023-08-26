@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakel Spahi</h1>
 <h3 align="center">A passionate developer from Albania</h3>
 
-- 🌱 I’m currently learning **PHP, OpenAPI, Docker, ReactJS,**
-
-- 👯 I’m looking to collaborate on **Web App Projects**
-
 - 👨‍💻 All of my projects are available at [github.com/x10combo](github.com/x10combo)
 
 - 📫 Contact me at: **rakelspahi03@gmail.com**
