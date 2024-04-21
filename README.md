@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rakel Spahi</h1>
-<h3 align="center">A passionate developer from Albania</h3>
+<h1 align="center">Hi 👋, Hey there, thanks for visiting.</h1>
+<h3 align="center">I'm a backend developer from Albania</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/x10combo](github.com/x10combo)
 
-- 📫 Contact me at: **rakelspahi03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
