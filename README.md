@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Hey there, thanks for visiting.</h1>
-<h3 align="center">I'm a backend developer from Albania</h3>
+<h3 align="center">I'm a Red Team analyst and Backend Dev from Albania</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/x10combo](github.com/x10combo)
 
