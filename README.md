@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x10combo&show_icons=true&locale=en&layout=compact" alt="x10combo" /></p>
 
-![tryhackme stats](https://raw.githubusercontent.com/<Pelikahn>/<Pelikahn>/master/assets/thm_propic.png)
+
